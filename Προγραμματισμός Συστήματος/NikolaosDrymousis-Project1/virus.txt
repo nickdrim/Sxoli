@@ -1,0 +1,17 @@
+Flu
+Ebola
+Rabies
+HIV
+Smallpox
+Hantavirus
+Influenza
+Dengue
+Rotavirus
+SARS-CoV 
+SARS-CoV-2 
+MERS-CoV
+Polio
+Tetanus
+Hepatitis-B
+Hepatitis-A
+Chickenpox
